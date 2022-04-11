@@ -1,2 +1,2 @@
 # GNN_LDP
-Implement graph neural network for dynamical large deviation calculations
+Implement a scalable graph neural network algorithm for dynamical large deviation calculations
